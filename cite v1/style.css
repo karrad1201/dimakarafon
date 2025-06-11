@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: radial-gradient(circle,slateblue, black);
+}
+
+
+.text {
+    font-family: sans-serif;
+    color: white;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
